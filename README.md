@@ -11,4 +11,7 @@ Database Persistence: Uses SQLAlchemy and SQLite for data storage.
 
 requirements:
 
-pip install Flask Flask-RESTful Flask-SQLAlchemy
+  pip install Flask Flask-RESTful Flask-SQLAlchemy
+
+
+![Capture](https://github.com/user-attachments/assets/b400ce8a-d43d-4d60-8ea6-213b4f57c319)
