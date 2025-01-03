@@ -7,3 +7,8 @@ Data Validation: Ensures data integrity through request parameter validation.
 Error Handling: Provides informative error responses for invalid requests or missing resources.
 Data Serialization: Returns structured JSON responses for consistent API output.
 Database Persistence: Uses SQLAlchemy and SQLite for data storage.
+
+
+requirements:
+
+pip install Flask Flask-RESTful Flask-SQLAlchemy
